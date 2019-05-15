@@ -15,12 +15,12 @@
     "test.watch": "jest --watch --no-cache"
   },
   "dependencies": {
-    "@stencil/core": "^1.0.0-alpha.23",
+    "@stencil/core": "^1.0.0-alpha.33",
     "@stencil/redux": "^0.1.1",
     "@stencil/router": "latest",
-    "redux": "^3.7.2",
+    "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@stencil/dev-server": "latest",

@@ -1,3 +1,4 @@
+import "@stencil/redux";
 import { Component, Prop, State, h } from "@stencil/core";
 import { Store } from "@stencil/redux";
 
